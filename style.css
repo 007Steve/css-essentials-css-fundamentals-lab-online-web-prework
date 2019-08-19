@@ -27,10 +27,13 @@ a{
   padding-left: 10px;
   background: #D3D3D3; 
 }
-p,p1{
+p{
   width: 800px;
   text-align: center;
   
+}
+p{
+  text-align: center;
 }
 details{
   display: block;
